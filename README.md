@@ -35,6 +35,7 @@ Daily Challenge and Practice
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-del-pix/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/David-del-pix/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -61,4 +62,8 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 <!---LeetCode Topics End-->
