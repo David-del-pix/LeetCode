@@ -33,6 +33,7 @@ Daily Challenge and Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-del-pix/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,5 +72,10 @@ Daily Challenge and Practice
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
