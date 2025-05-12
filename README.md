@@ -23,6 +23,7 @@ Daily Challenge and Practice
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/David-del-pix/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/David-del-pix/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Sorting
 |  |
@@ -83,6 +84,7 @@ Daily Challenge and Practice
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,4 +133,5 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
