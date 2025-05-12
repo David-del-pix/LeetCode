@@ -33,6 +33,7 @@ Daily Challenge and Practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
@@ -78,6 +79,7 @@ Daily Challenge and Practice
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
@@ -101,5 +103,6 @@ Daily Challenge and Practice
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
