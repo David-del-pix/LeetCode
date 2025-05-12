@@ -38,6 +38,7 @@ Daily Challenge and Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-del-pix/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/David-del-pix/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
+| [0806-domino-and-tromino-tiling](https://github.com/David-del-pix/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Greedy
 |  |
