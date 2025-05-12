@@ -79,6 +79,7 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -91,6 +92,7 @@ Daily Challenge and Practice
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
@@ -125,4 +127,8 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
