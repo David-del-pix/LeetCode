@@ -38,6 +38,7 @@ Daily Challenge and Practice
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-del-pix/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/David-del-pix/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/David-del-pix/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
@@ -52,6 +53,7 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +81,8 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
