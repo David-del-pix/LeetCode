@@ -7,6 +7,7 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/David-del-pix/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
@@ -76,6 +77,7 @@ Daily Challenge and Practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/David-del-pix/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/David-del-pix/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 ## String
@@ -107,4 +109,8 @@ Daily Challenge and Practice
 | ------- |
 | [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/David-del-pix/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
