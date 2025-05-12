@@ -6,6 +6,7 @@ Daily Challenge and Practice
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
 ## Sorting
 |  |
@@ -15,4 +16,12 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
