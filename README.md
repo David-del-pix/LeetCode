@@ -71,6 +71,7 @@ Daily Challenge and Practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/David-del-pix/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -84,5 +85,14 @@ Daily Challenge and Practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/David-del-pix/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/David-del-pix/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/David-del-pix/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
