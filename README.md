@@ -20,6 +20,7 @@ Daily Challenge and Practice
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ Daily Challenge and Practice
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
