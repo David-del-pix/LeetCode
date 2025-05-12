@@ -17,12 +17,14 @@ Daily Challenge and Practice
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
+| [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
+| [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Counting Sort
 |  |
 | ------- |
@@ -36,16 +38,19 @@ Daily Challenge and Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-del-pix/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/David-del-pix/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
+| [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/David-del-pix/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
+| [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 ## Two Pointers
 |  |
 | ------- |
