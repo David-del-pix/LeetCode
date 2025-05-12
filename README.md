@@ -6,6 +6,7 @@ Daily Challenge and Practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
@@ -69,6 +70,7 @@ Daily Challenge and Practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Divide and Conquer
