@@ -84,6 +84,7 @@ Daily Challenge and Practice
 | ------- |
 | [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -100,6 +101,7 @@ Daily Challenge and Practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
@@ -140,5 +142,6 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
