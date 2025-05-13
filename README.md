@@ -10,6 +10,7 @@ Daily Challenge and Practice
 | [0004-median-of-two-sorted-arrays](https://github.com/David-del-pix/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/David-del-pix/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -85,6 +86,7 @@ Daily Challenge and Practice
 | [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -144,4 +146,12 @@ Daily Challenge and Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/David-del-pix/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
