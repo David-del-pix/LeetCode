@@ -38,6 +38,7 @@ Daily Challenge and Practice
 | ------- |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Daily Challenge and Practice
 | [0806-domino-and-tromino-tiling](https://github.com/David-del-pix/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2262-solving-questions-with-brainpower](https://github.com/David-del-pix/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Daily Challenge and Practice
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Daily Challenge and Practice
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +103,7 @@ Daily Challenge and Practice
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
