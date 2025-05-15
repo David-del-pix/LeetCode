@@ -62,6 +62,7 @@ Daily Challenge and Practice
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/David-del-pix/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/David-del-pix/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/David-del-pix/LeetCode/tree/master/0392-is-subsequence) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/David-del-pix/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
@@ -104,6 +105,7 @@ Daily Challenge and Practice
 | [0125-valid-palindrome](https://github.com/David-del-pix/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/David-del-pix/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/David-del-pix/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Daily Challenge and Practice
 | [0125-valid-palindrome](https://github.com/David-del-pix/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/David-del-pix/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/David-del-pix/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/David-del-pix/LeetCode/tree/master/0392-is-subsequence) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/David-del-pix/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/David-del-pix/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
