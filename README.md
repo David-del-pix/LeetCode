@@ -27,6 +27,7 @@ Daily Challenge and Practice
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/David-del-pix/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/David-del-pix/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/David-del-pix/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/David-del-pix/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Sorting
@@ -59,6 +60,7 @@ Daily Challenge and Practice
 | [0806-domino-and-tromino-tiling](https://github.com/David-del-pix/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [2262-solving-questions-with-brainpower](https://github.com/David-del-pix/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/David-del-pix/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/David-del-pix/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
@@ -120,6 +122,7 @@ Daily Challenge and Practice
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0383-ransom-note](https://github.com/David-del-pix/LeetCode/tree/master/0383-ransom-note) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/David-del-pix/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/David-del-pix/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
