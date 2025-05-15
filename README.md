@@ -73,6 +73,7 @@ Daily Challenge and Practice
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/David-del-pix/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/David-del-pix/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -128,6 +129,7 @@ Daily Challenge and Practice
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/David-del-pix/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/David-del-pix/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0382-linked-list-random-node](https://github.com/David-del-pix/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Merge Sort
 |  |
 | ------- |
@@ -170,4 +172,9 @@ Daily Challenge and Practice
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/David-del-pix/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/David-del-pix/LeetCode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/David-del-pix/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
