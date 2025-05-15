@@ -131,6 +131,7 @@ Daily Challenge and Practice
 | [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/David-del-pix/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/David-del-pix/LeetCode/tree/master/0383-ransom-note) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/David-del-pix/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
