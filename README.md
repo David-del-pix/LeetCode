@@ -41,6 +41,7 @@ Daily Challenge and Practice
 | ------- |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/David-del-pix/LeetCode/tree/master/0383-ransom-note) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ Daily Challenge and Practice
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/David-del-pix/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/David-del-pix/LeetCode/tree/master/0383-ransom-note) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -113,6 +115,7 @@ Daily Challenge and Practice
 | [0030-substring-with-concatenation-of-all-words](https://github.com/David-del-pix/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
+| [0383-ransom-note](https://github.com/David-del-pix/LeetCode/tree/master/0383-ransom-note) |
 | [0639-decode-ways-ii](https://github.com/David-del-pix/LeetCode/tree/master/0639-decode-ways-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
