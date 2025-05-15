@@ -20,6 +20,7 @@ Daily Challenge and Practice
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/David-del-pix/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -69,6 +70,7 @@ Daily Challenge and Practice
 | ------- |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1277-largest-multiple-of-three](https://github.com/David-del-pix/LeetCode/tree/master/1277-largest-multiple-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/David-del-pix/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -89,6 +91,7 @@ Daily Challenge and Practice
 | [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/David-del-pix/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/David-del-pix/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2215-finding-3-digit-even-numbers](https://github.com/David-del-pix/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/David-del-pix/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/David-del-pix/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -154,4 +157,12 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/David-del-pix/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
