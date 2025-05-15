@@ -11,6 +11,7 @@ Daily Challenge and Practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/David-del-pix/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/David-del-pix/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,6 +54,7 @@ Daily Challenge and Practice
 | ------- |
 | [0010-regular-expression-matching](https://github.com/David-del-pix/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/David-del-pix/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
@@ -93,6 +95,7 @@ Daily Challenge and Practice
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/David-del-pix/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/David-del-pix/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/David-del-pix/LeetCode/tree/master/0189-rotate-array) |
@@ -134,6 +137,7 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/David-del-pix/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/David-del-pix/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,4 +200,8 @@ Daily Challenge and Practice
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/David-del-pix/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/David-del-pix/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
