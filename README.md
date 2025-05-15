@@ -8,6 +8,7 @@ Daily Challenge and Practice
 | ------- |
 | [0001-two-sum](https://github.com/David-del-pix/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/David-del-pix/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/David-del-pix/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/David-del-pix/LeetCode/tree/master/0037-sudoku-solver) |
@@ -74,6 +75,7 @@ Daily Challenge and Practice
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/David-del-pix/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/David-del-pix/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/David-del-pix/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/David-del-pix/LeetCode/tree/master/0055-jump-game) |
@@ -97,6 +99,7 @@ Daily Challenge and Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/David-del-pix/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/David-del-pix/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/David-del-pix/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/David-del-pix/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
